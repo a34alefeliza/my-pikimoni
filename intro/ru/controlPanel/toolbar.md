@@ -1,0 +1,1 @@
+The toolbar allows you to control many aspects of the lesson. It allows to resize elements, plays sounds, use timers and much more.

@@ -1,0 +1,1 @@
+You can define your own workplan. A workplan is nothing but a list of exercies that you can prepare in advance for your lessons. It can be a personalized workplan for each of your students.

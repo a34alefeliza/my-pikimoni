@@ -1,0 +1,1 @@
+ne nice feature that we have is that you can publish the work that you do during the lesson on the Wall. Once published, it will be visible to all students. Others can also rate your work putting a <i>like</i> on it. This will motivate your students to do better works!

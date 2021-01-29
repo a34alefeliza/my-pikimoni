@@ -1,0 +1,1 @@
+Click on the _help_ button at any time to get a detailed description of all funtionalities of the toolbar

@@ -1,0 +1,1 @@
+Anther nice feature you can take advantege of, is rewarding your students at the end of each lesson with a sticker. This sticker you go in the student's personal collection, that will grow lesson after lesson. We have plenty of stickers on PIKIMONI, here only a few are displayed.
