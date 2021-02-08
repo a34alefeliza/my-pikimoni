@@ -1,1 +1,1 @@
-Здесь регистрируем студентов и при необходимости формируем группы.
+Register your students here. If necessary organise them into groups.
