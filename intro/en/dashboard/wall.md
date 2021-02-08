@@ -1,1 +1,1 @@
-ne nice feature that we have is that you can publish the work that you do during the lesson on the Wall. Once published, it will be visible to all students. Others can also rate your work putting a <i>like</i> on it. This will motivate your students to do better works!
+In the "Wall" section you are able to present some of the works of your students, done during the lesson, for other platform members. They can rate these works putting a <i>like</i> on it. This will motivate your students for better work and add a competetive note!
