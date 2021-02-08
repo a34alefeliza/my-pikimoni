@@ -1,1 +1,1 @@
-Здесь отображаются все совершенные Вами оплаты.
+Here you have an access to your payment history.
