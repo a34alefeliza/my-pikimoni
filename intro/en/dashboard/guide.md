@@ -1,1 +1,1 @@
-Вернитесь сюда для просмотра этого гида снова.
+Come back here to see this guide instruction again.
