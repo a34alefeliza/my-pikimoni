@@ -1,1 +1,1 @@
-Отсюда можно начать знакомство с платформой через обучающие ролики для начального этапа работы, а также вебинары по дополнительным уровням.
+Here you can find some short guide videos which help you to start your work on the platform.
