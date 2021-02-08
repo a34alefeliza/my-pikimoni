@@ -1,5 +1,5 @@
-Отсюда начинается использование платформы!
+Here the start for using the platform!
 
-Здесь можно разблокировать уровни и оплатить Полный доступ.
+You can unlock and pay for the course in this section.
 
-Здесь же можно вносить абонентскую плату за выбранный период и увидеть дату по каждому уровню, когда нужно производить последующую оплату для продолжения пользования платформой.
+Also you are able to see the expire date of your payment. 
