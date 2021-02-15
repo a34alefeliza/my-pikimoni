@@ -1,4 +1,4 @@
-# :fa-lightbulb-o Pikimoni Guide
+# Pikimoni Guide
 
 We welcome you to PIKIMONI. This is an interactive platform for online teaching. The platform offers you a suite of tools and functionalities to make the lesson fun and effective, for a new learning experience!
 
