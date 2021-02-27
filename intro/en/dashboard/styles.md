@@ -1,1 +1,1 @@
-You may personalize the background with different colours or given pictures here. Also, change the dashboard text size to bigger or smaller one if you want to.  
+You can personalise the appearance of the dashboard. This includes changing the background image and text size.
