@@ -1,1 +1,1 @@
-Expand this section to edit your profile, define your students, check your lessons. You can create your own students and arrange them into groups.
+Open this tab to edit your profile and gain access to the information below.
