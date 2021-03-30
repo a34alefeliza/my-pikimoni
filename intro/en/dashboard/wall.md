@@ -1,1 +1,1 @@
-In the "Wall" section you are able to present some of the students' works, done during the lesson, to other platform members. They can rate these works by putting a <i>like</i> on it. This will motivate your students to do better work and add a competetive note!
+In the "Wall" section you are able to present some of the students' works, done during the lesson, to other platform members. They can rate these works by putting a <i>like</i> on it. This will motivate your students to do better work and add a competitive note!
